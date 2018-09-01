@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Satyam </title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Satyam </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 24 Aug 2018 23:29:52 +0530</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Transfer Learning Using Riemannian Geometry Frameowrk IN BCI</title>
+      <link>/project/riemannian/</link>
+      <pubDate>Fri, 24 Aug 2018 23:29:52 +0530</pubDate>
+      
+      <guid>/project/riemannian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imagined Speech Classification</title>
+      <link>/project/imaginedspeech/</link>
+      <pubDate>Fri, 24 Aug 2018 22:38:32 +0530</pubDate>
+      
+      <guid>/project/imaginedspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of electrode position in BCI</title>
+      <link>/project/sourcelocali/</link>
+      <pubDate>Fri, 24 Aug 2018 22:36:50 +0530</pubDate>
+      
+      <guid>/project/sourcelocali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voluntary eye blink classification</title>
+      <link>/project/eyeblink/</link>
+      <pubDate>Fri, 24 Aug 2018 22:33:55 +0530</pubDate>
+      
+      <guid>/project/eyeblink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P300 detection using Autoencoders</title>
+      <link>/project/p300i/</link>
+      <pubDate>Fri, 24 Aug 2018 18:08:37 +0530</pubDate>
+      
+      <guid>/project/p300i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey on Brain Computer Interface</title>
+      <link>/project/brain/</link>
+      <pubDate>Fri, 24 Aug 2018 18:04:49 +0530</pubDate>
+      
+      <guid>/project/brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey on Human Intelligence</title>
+      <link>/project/project1/</link>
+      <pubDate>Fri, 24 Aug 2018 18:01:33 +0530</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Satyam </title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Satyam </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Divergence Framework for Multiclass Motor Imagery Brain Computer Interface</title>
+      <link>/publication/tbme/</link>
+      <pubDate>Wed, 15 Aug 2018 01:51:22 +0530</pubDate>
+      
+      <guid>/publication/tbme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEG based Motor imagery classification using instantaneous phase difference sequence</title>
+      <link>/publication/smc/</link>
+      <pubDate>Wed, 15 Aug 2018 01:51:22 +0530</pubDate>
+      
+      <guid>/publication/smc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electroencephalogram based reaction time prediction with Differential Phase Synchrony representations using co-operative multitask learning Deep Neural Networks</title>
+      <link>/publication/tetci/</link>
+      <pubDate>Wed, 15 Aug 2018 01:51:22 +0530</pubDate>
+      
+      <guid>/publication/tetci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
