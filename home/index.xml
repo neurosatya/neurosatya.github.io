@@ -49,75 +49,12 @@
     </item>
     
     <item>
-      <title>Selected Talks</title>
-      <link>/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
-      
-      <guid>/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
-      
-      <guid>/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
-      
-      <guid>/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
-      
-      <guid>/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mentoring</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
       
       <guid>/home/teaching/</guid>
       <description>EE380A: Control System Laboratory (Fall 2017) EE381A: Microelectronics laboratory (Spring 2018) Undergraduate Project: 2D cursor control using hybrid P300-Motor Imagery BCI (Fall 2018)  Undergraduate Project: Grasp detection using Mental Imagery (fall 2018)</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0400</pubDate>
-      
-      <guid>/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0400</pubDate>
-      
-      <guid>/home/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
-      
-      <guid>/home/contact/</guid>
-      <description></description>
     </item>
     
   </channel>
