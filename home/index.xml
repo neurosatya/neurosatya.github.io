@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,10 +24,10 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am Satyam Kumar, currently working as a research assistant at Intelligent systems laboratory IIT Kanpur under the supervision of Prof. Laxmidhar Behera. My interest is to decode the information content of neural signals and further its use in Brain-computer interfaces (BCI). I recently defended my master&amp;rsquo;s thesis on Motor Imagery BCI. In summer 2016, I was fortunate enough to receive Charpak Scholarship for research internship under Prof. Francesco P.</description>
+      <description>Biography I am satyam kumar, currently working as a visiting researcher on adaptive riemannian classifiers for EEG signals in POTIOC team at INRIA, Bordeaux sud-ouest under supervision of Fabien Lotte. My interest is to decode the information content of neural signals and further its use in Brain-computer interfaces (BCI). I worked under supervison of Prof. Laxmidhar Behera for my master&amp;rsquo;s thesis on Motor Imagery BCI. In summer 2016, I was fortunate enough to receive Charpak Scholarship for research internship under Prof.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@
     <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Mentoring</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/teaching/</guid>
       <description>EE380A: Control System Laboratory (Fall 2017) EE381A: Microelectronics laboratory (Spring 2018) Undergraduate Project: 2D cursor control using hybrid P300-Motor Imagery BCI (Fall 2018)  Undergraduate Project: Grasp detection using Mental Imagery (fall 2018)</description>
