@@ -48,14 +48,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Mentoring</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>EE380A: Control System Laboratory (Fall 2017) EE381A: Microelectronics laboratory (Spring 2018) Undergraduate Project: 2D cursor control using hybrid P300-Motor Imagery BCI (Fall 2018)  Undergraduate Project: Grasp detection using Mental Imagery (fall 2018)</description>
-    </item>
-    
   </channel>
 </rss>
