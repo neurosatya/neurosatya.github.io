@@ -1,5 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>/publication_types/1/</loc>
+      <lastmod>2019-02-15T01:51:22+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-02-15T01:51:22+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-02-15T01:51:22+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/winbci/</loc>
+      <lastmod>2019-02-15T01:51:22+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/3/</loc>
+      <lastmod>2018-12-15T01:51:22+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/tbme/</loc>
+      <lastmod>2018-12-15T01:51:22+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2018-08-24T23:29:52+05:30</lastmod>
+    </url>
+    
   
     
     <url>
@@ -44,7 +99,23 @@
     
     <url>
     
+      <loc>/tags/motor-imagery/</loc>
+      <lastmod>2018-08-24T18:04:49+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/brain/</loc>
+      <lastmod>2018-08-24T18:04:49+05:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
       <lastmod>2018-08-24T18:04:49+05:30</lastmod>
     </url>
     
@@ -60,16 +131,8 @@
     
     <url>
     
-      <loc>/publication/tbme/</loc>
-      <lastmod>2018-08-15T01:51:22+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/smc/</loc>
-      <lastmod>2018-08-15T01:51:22+05:30</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-08-17T01:51:22+05:30</lastmod>
     </url>
     
   
@@ -77,15 +140,15 @@
     <url>
     
       <loc>/publication/tetci/</loc>
-      <lastmod>2018-08-15T01:51:22+05:30</lastmod>
+      <lastmod>2018-08-17T01:51:22+05:30</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/publication/winbci/</loc>
-      <lastmod>2018-08-15T01:51:22+05:30</lastmod>
+      <loc>/publication/smc/</loc>
+      <lastmod>2018-06-13T01:51:22+05:30</lastmod>
     </url>
     
   
@@ -93,7 +156,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -101,7 +164,7 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -109,34 +172,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+05:30</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2018-08-15T01:51:22+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2018-08-15T01:51:22+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/3/</loc>
-      <lastmod>2018-08-15T01:51:22+05:30</lastmod>
-      <priority>0</priority>
+      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -144,52 +180,6 @@
     <url>
     
       <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/motor-imagery/</loc>
-      <lastmod>2018-08-24T18:04:49+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2018-08-24T23:29:52+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2018-08-15T01:51:22+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+05:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2018-08-24T18:04:49+05:30</lastmod>
-      <priority>0</priority>
     </url>
     
   

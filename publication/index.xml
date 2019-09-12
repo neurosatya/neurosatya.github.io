@@ -7,44 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Towards Adaptive Classification using Riemannian Geometry approaches in Brain-Computer Interfaces</title>
+      <link>/publication/winbci/</link>
+      <pubDate>Fri, 15 Feb 2019 01:51:22 +0530</pubDate>
+      
+      <guid>/publication/winbci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Divergence Framework for Multiclass Motor Imagery Brain Computer Interface</title>
       <link>/publication/tbme/</link>
-      <pubDate>Wed, 15 Aug 2018 01:51:22 +0530</pubDate>
+      <pubDate>Sat, 15 Dec 2018 01:51:22 +0530</pubDate>
       
       <guid>/publication/tbme/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>EEG based Motor imagery classification using instantaneous phase difference sequence</title>
-      <link>/publication/smc/</link>
-      <pubDate>Wed, 15 Aug 2018 01:51:22 +0530</pubDate>
-      
-      <guid>/publication/smc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Electroencephalogram based reaction time prediction with Differential Phase Synchrony representations using co-operative multitask learning Deep Neural Networks</title>
       <link>/publication/tetci/</link>
-      <pubDate>Wed, 15 Aug 2018 01:51:22 +0530</pubDate>
+      <pubDate>Fri, 17 Aug 2018 01:51:22 +0530</pubDate>
       
       <guid>/publication/tetci/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards Adaptive Classification using Riemannian Geometry approaches in Brain-Computer Interfaces</title>
-      <link>/publication/winbci/</link>
-      <pubDate>Wed, 15 Aug 2018 01:51:22 +0530</pubDate>
+      <title>EEG based Motor imagery classification using instantaneous phase difference sequence</title>
+      <link>/publication/smc/</link>
+      <pubDate>Wed, 13 Jun 2018 01:51:22 +0530</pubDate>
       
-      <guid>/publication/winbci/</guid>
+      <guid>/publication/smc/</guid>
       <description></description>
     </item>
     

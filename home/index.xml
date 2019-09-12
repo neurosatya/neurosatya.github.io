@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,10 +24,10 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am Satyam Kumar, currently working with Prof. Vipul Arora to develop frameworks which use EEG signals for ERP classification. I recently was a visiting researcher in POTIOC team at INRIA, Bordeaux under the supervision of Dr. Fabien Lotte and Prof. Florian Yger where I was working on adaptive Riemannian classifiers for EEG signals. My interest is to decode the information content of neural signals and further its use in Brain-computer interfaces (BCI).</description>
+      <description>Biography I am a graduate student in ECE department at UT Austin, where I am supervised by Prof. Jose del R Millan. Previously I worked with Prof. Vipul Arora to develop frameworks which use EEG signals for ERP classification. I was a visiting researcher in POTIOC team at INRIA, Bordeaux under the supervision of Dr. Fabien Lotte and Prof. Florian Yger where I was working on adaptive Riemannian classifiers for EEG signals.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@
     <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
