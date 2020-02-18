@@ -179,6 +179,14 @@
     
     <url>
     
+      <loc>/past/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/categories/</loc>
     </url>
     
